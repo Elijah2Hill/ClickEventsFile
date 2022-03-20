@@ -1,2 +1,2 @@
 # ClickEventsFile
-Two files which is index and clickevents ("main" only) is viewable.
+This is my Click Events repository file.
